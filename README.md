@@ -2,7 +2,7 @@
 
 In Java, "Iterable" and "Collections" are both related to handling collections of objects, but they serve slightly different purposes.
 
-## Iterable
+## Iterable (java.util.Iterator)
 
 The Iterable interface is a part of the Java Collections Framework and represents a sequence of elements that can be iterated (looped) sequentially. 
 
@@ -48,7 +48,7 @@ public class MyIterableCollection implements Iterable<String> {
 }
 ```
 
-## Collections
+## Collections (java.util.Collections)
 
 On the other hand, the Collections class is a utility class in Java that consists of static methods that operate on or return collections. 
 
