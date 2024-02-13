@@ -1,5 +1,7 @@
 # JavaSE-Iterable and Collections
 
+See the Udemy course: https://www.udemy.com/course/curso-certificacion-profesional-desarrollador-java-se-11
+
 In Java, "Iterable" and "Collections" are both related to handling collections of objects, but they serve slightly different purposes.
 
 ## Iterable (java.util.Iterator)
